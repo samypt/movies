@@ -1,4 +1,4 @@
-from istorage import IStorage
+from .istorage import IStorage
 import csv
 
 
