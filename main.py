@@ -1,5 +1,5 @@
-from storage_json import StorageJson
-from storage_csv import StorageCsv
+from SE103.Movies.storage.storage_json import StorageJson
+from SE103.Movies.storage.storage_csv import StorageCsv
 from movie_app import MovieApp
 
 # File paths for storing movie data
