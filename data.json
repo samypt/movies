@@ -36,5 +36,10 @@
         "year": 2016,
         "rating": 4.1,
         "poster": "https://m.media-amazon.com/images/M/MV5BNTg3MjJjYWYtZDVmNi00MTQ1LThlNTgtMGM2ZDE3MTAwZmY0XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_SX300.jpg"
+    },
+    "Creator": {
+        "year": 1985,
+        "rating": 6.1,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjg4YjQ2MWMtNjg5ZS00ZWIzLWEzNGQtYzEwNzQyODdlYzkwXkEyXkFqcGc@._V1_SX300.jpg"
     }
 }
