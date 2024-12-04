@@ -1,0 +1,40 @@
+{
+    "Titanic": {
+        "year": 1990,
+        "rating": 9.2
+    },
+    "Spider-Man": {
+        "year": 2003,
+        "rating": 9.2
+    },
+    "Harry Potter": {
+        "year": 2001,
+        "rating": 9.1
+    },
+    "Forest Gump": {
+        "year": 1994,
+        "rating": 7.2
+    },
+    "Dune": {
+        "year": 2005,
+        "rating": 5.2
+    },
+    "Alien": {
+        "year": 2011,
+        "rating": 6.8
+    },
+    "Dune 2": {
+        "year": 2023,
+        "rating": 5.2
+    },
+    "Star Wars: Episode IV - A New Hope": {
+        "year": 1977,
+        "rating": 8.6,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    "Dictator": {
+        "year": 2016,
+        "rating": 4.1,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTg3MjJjYWYtZDVmNi00MTQ1LThlNTgtMGM2ZDE3MTAwZmY0XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_SX300.jpg"
+    }
+}
