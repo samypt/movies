@@ -1,11 +1,19 @@
 import requests
+import os
+from dotenv import load_dotenv
+
+
+# load keys
+load_dotenv(".env")
+API_KEY = os.getenv("API_KEY")
+
 
 # Constants
 HTML_TEMPLATE = "_static/template.html"  # Path to the HTML template file
 HTML_PATH = "_static/movies.html"  # Path to save the updated HTML
 REPLACEMENT = "__REPLACE__"
 BASE_URL = "http://www.omdbapi.com/"  # Base URL for OMDB API
-API_KEY = "f5173ccf"  # Replace with your actual API key
+
 
 def get_movie_info(title):
     """
