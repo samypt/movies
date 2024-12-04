@@ -3,8 +3,8 @@ from storage_csv import StorageCsv
 from movie_app import MovieApp
 
 # File paths for storing movie data
-JOHN_PATH = 'data.json'
-MARK_PATH = 'data.csv'
+JOHN_PATH = 'data/data.json'
+MARK_PATH = 'data/data.csv'
 
 
 def main():
